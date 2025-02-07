@@ -1,0 +1,14 @@
+﻿BLINKIT Questions:
+1.        Import Data from table Grocery Sales using the provided CSV File into Tableau.
+2.        What are the Top 10 selling items by their total sales?
+3.        Visualize how outlet type generates and varies as per their average sales?
+4.        How does the sales performance vary across different outlet locations?
+5.        Showcase the distribution of item fat content in the dataset using a Donut chart?
+6.        Use a line chart to show how does the age of the outlets (establishment year) impact their sales performance?
+7.        What are the top-selling item types by their total sales?
+8.        Visualize the average MRP by item types through a relevant visualization.
+9.        Create KPIs for Total Sales, Average MRP, and Number of Items.
+10.        Create a visualization other than those mentioned.
+11.        Create a dashboard and use all the insights that you have created and use a year filter.
+12.        Format all the sheets and dashboard as per the Blinkit colour theme.
+13.        Create a story for the sheets and dashboard that you have created.
